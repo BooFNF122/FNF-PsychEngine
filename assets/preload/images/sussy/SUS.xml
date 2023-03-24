@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SUS.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SUS0000" x="0" y="0" width="408" height="316" frameX="-6" frameY="0" frameWidth="422" frameHeight="316"/>
+	<SubTexture name="SUS0001" x="0" y="0" width="408" height="316" frameX="-6" frameY="0" frameWidth="422" frameHeight="316"/>
+	<SubTexture name="SUS0002" x="408" y="0" width="415" height="310" frameX="-3" frameY="-6" frameWidth="422" frameHeight="316"/>
+	<SubTexture name="SUS0003" x="408" y="0" width="415" height="310" frameX="-3" frameY="-6" frameWidth="422" frameHeight="316"/>
+	<SubTexture name="SUS0004" x="0" y="316" width="422" height="303" frameX="0" frameY="-12" frameWidth="422" frameHeight="316"/>
+	<SubTexture name="SUS0005" x="0" y="316" width="422" height="303" frameX="0" frameY="-12" frameWidth="422" frameHeight="316"/>
+	<SubTexture name="SUS0006" x="0" y="316" width="422" height="303" frameX="0" frameY="-12" frameWidth="422" frameHeight="316"/>
+	<SubTexture name="SUS0007" x="0" y="316" width="422" height="303" frameX="0" frameY="-12" frameWidth="422" frameHeight="316"/>
+	<SubTexture name="SUS0008" x="0" y="316" width="422" height="303" frameX="0" frameY="-12" frameWidth="422" frameHeight="316"/>
+	<SubTexture name="SUS0009" x="0" y="316" width="422" height="303" frameX="0" frameY="-12" frameWidth="422" frameHeight="316"/>
+	<SubTexture name="SUS0010" x="0" y="316" width="422" height="303" frameX="0" frameY="-12" frameWidth="422" frameHeight="316"/>
+	<SubTexture name="SUS0011" x="0" y="316" width="422" height="303" frameX="0" frameY="-12" frameWidth="422" frameHeight="316"/>
+	<SubTexture name="SUS0012" x="0" y="316" width="422" height="303" frameX="0" frameY="-12" frameWidth="422" frameHeight="316"/>
+	<SubTexture name="SUS0013" x="0" y="316" width="422" height="303" frameX="0" frameY="-12" frameWidth="422" frameHeight="316"/>
+</TextureAtlas>
