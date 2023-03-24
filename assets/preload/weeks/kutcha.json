@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"River Flows in You",
+			"kutcha",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"kutcha",
+		"bf",
+		"gf"
+	],
+	"storyName": "VS Kutcha",
+	"weekName": "Kutcha",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
