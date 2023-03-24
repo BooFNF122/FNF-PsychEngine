@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Kutcha idle"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Kutcha left"
+		},
+		{
+			"offsets": [
+				-9,
+				13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Kutcha down"
+		},
+		{
+			"offsets": [
+				0,
+				11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Kutcha up"
+		},
+		{
+			"offsets": [
+				-105,
+				16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Kutcha right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kutcha",
+	"position": [
+		-150,
+		0
+	],
+	"healthicon": "kutcha",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-90,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
