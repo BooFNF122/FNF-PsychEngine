@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="god kutcha.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Kutcha down0000" x="0" y="0" width="590" height="787" frameX="-19" frameY="0" frameWidth="630" frameHeight="796"/>
+	<SubTexture name="Kutcha down0001" x="590" y="0" width="611" height="788" frameX="-9" frameY="-3" frameWidth="630" frameHeight="796"/>
+	<SubTexture name="Kutcha down0002" x="1201" y="0" width="630" height="790" frameX="0" frameY="-6" frameWidth="630" frameHeight="796"/>
+	<SubTexture name="Kutcha down0003" x="1201" y="0" width="630" height="790" frameX="0" frameY="-6" frameWidth="630" frameHeight="796"/>
+	<SubTexture name="Kutcha down0004" x="1201" y="0" width="630" height="790" frameX="0" frameY="-6" frameWidth="630" frameHeight="796"/>
+	<SubTexture name="Kutcha down0005" x="1201" y="0" width="630" height="790" frameX="0" frameY="-6" frameWidth="630" frameHeight="796"/>
+	<SubTexture name="Kutcha down0006" x="1201" y="0" width="630" height="790" frameX="0" frameY="-6" frameWidth="630" frameHeight="796"/>
+	<SubTexture name="Kutcha down0007" x="1201" y="0" width="630" height="790" frameX="0" frameY="-6" frameWidth="630" frameHeight="796"/>
+	<SubTexture name="Kutcha down0008" x="1201" y="0" width="630" height="790" frameX="0" frameY="-6" frameWidth="630" frameHeight="796"/>
+	<SubTexture name="Kutcha down0009" x="1201" y="0" width="630" height="790" frameX="0" frameY="-6" frameWidth="630" frameHeight="796"/>
+	<SubTexture name="Kutcha down0010" x="1201" y="0" width="630" height="790" frameX="0" frameY="-6" frameWidth="630" frameHeight="796"/>
+	<SubTexture name="Kutcha down0011" x="1201" y="0" width="630" height="790" frameX="0" frameY="-6" frameWidth="630" frameHeight="796"/>
+	<SubTexture name="Kutcha down0012" x="1201" y="0" width="630" height="790" frameX="0" frameY="-6" frameWidth="630" frameHeight="796"/>
+	<SubTexture name="Kutcha down0013" x="1201" y="0" width="630" height="790" frameX="0" frameY="-6" frameWidth="630" frameHeight="796"/>
+	<SubTexture name="Kutcha idle0000" x="1831" y="0" width="597" height="754" frameX="-19" frameY="-36" frameWidth="772" frameHeight="855"/>
+	<SubTexture name="Kutcha idle0001" x="1831" y="0" width="597" height="754" frameX="-19" frameY="-36" frameWidth="772" frameHeight="855"/>
+	<SubTexture name="Kutcha idle0002" x="2428" y="0" width="648" height="781" frameX="-11" frameY="-26" frameWidth="772" frameHeight="855"/>
+	<SubTexture name="Kutcha idle0003" x="2428" y="0" width="648" height="781" frameX="-11" frameY="-26" frameWidth="772" frameHeight="855"/>
+	<SubTexture name="Kutcha idle0004" x="3076" y="0" width="746" height="846" frameX="-5" frameY="0" frameWidth="772" frameHeight="855"/>
+	<SubTexture name="Kutcha idle0005" x="3076" y="0" width="746" height="846" frameX="-5" frameY="0" frameWidth="772" frameHeight="855"/>
+	<SubTexture name="Kutcha idle0006" x="0" y="846" width="772" height="853" frameX="0" frameY="-2" frameWidth="772" frameHeight="855"/>
+	<SubTexture name="Kutcha idle0007" x="0" y="846" width="772" height="853" frameX="0" frameY="-2" frameWidth="772" frameHeight="855"/>
+	<SubTexture name="Kutcha idle0008" x="0" y="846" width="772" height="853" frameX="0" frameY="-2" frameWidth="772" frameHeight="855"/>
+	<SubTexture name="Kutcha idle0009" x="0" y="846" width="772" height="853" frameX="0" frameY="-2" frameWidth="772" frameHeight="855"/>
+	<SubTexture name="Kutcha idle0010" x="0" y="846" width="772" height="853" frameX="0" frameY="-2" frameWidth="772" frameHeight="855"/>
+	<SubTexture name="Kutcha idle0011" x="0" y="846" width="772" height="853" frameX="0" frameY="-2" frameWidth="772" frameHeight="855"/>
+	<SubTexture name="Kutcha idle0012" x="0" y="846" width="772" height="853" frameX="0" frameY="-2" frameWidth="772" frameHeight="855"/>
+	<SubTexture name="Kutcha idle0013" x="0" y="846" width="772" height="853" frameX="0" frameY="-2" frameWidth="772" frameHeight="855"/>
+	<SubTexture name="Kutcha left0000" x="772" y="846" width="610" height="787" frameX="-2" frameY="0" frameWidth="628" frameHeight="787"/>
+	<SubTexture name="Kutcha left0001" x="1382" y="846" width="619" height="787" frameX="-1" frameY="0" frameWidth="628" frameHeight="787"/>
+	<SubTexture name="Kutcha left0002" x="2001" y="846" width="628" height="787"/>
+	<SubTexture name="Kutcha left0003" x="2001" y="846" width="628" height="787"/>
+	<SubTexture name="Kutcha left0004" x="2001" y="846" width="628" height="787"/>
+	<SubTexture name="Kutcha left0005" x="2001" y="846" width="628" height="787"/>
+	<SubTexture name="Kutcha left0006" x="2001" y="846" width="628" height="787"/>
+	<SubTexture name="Kutcha left0007" x="2001" y="846" width="628" height="787"/>
+	<SubTexture name="Kutcha left0008" x="2001" y="846" width="628" height="787"/>
+	<SubTexture name="Kutcha left0009" x="2001" y="846" width="628" height="787"/>
+	<SubTexture name="Kutcha left0010" x="2001" y="846" width="628" height="787"/>
+	<SubTexture name="Kutcha left0011" x="2001" y="846" width="628" height="787"/>
+	<SubTexture name="Kutcha left0012" x="2001" y="846" width="628" height="787"/>
+	<SubTexture name="Kutcha left0013" x="2001" y="846" width="628" height="787"/>
+	<SubTexture name="Kutcha right0000" x="2629" y="846" width="590" height="787" frameX="-30" frameY="0" frameWidth="624" frameHeight="787"/>
+	<SubTexture name="Kutcha right0001" x="3219" y="846" width="607" height="787" frameX="-15" frameY="0" frameWidth="624" frameHeight="787"/>
+	<SubTexture name="Kutcha right0002" x="0" y="1699" width="624" height="787"/>
+	<SubTexture name="Kutcha right0003" x="0" y="1699" width="624" height="787"/>
+	<SubTexture name="Kutcha right0004" x="0" y="1699" width="624" height="787"/>
+	<SubTexture name="Kutcha right0005" x="0" y="1699" width="624" height="787"/>
+	<SubTexture name="Kutcha right0006" x="0" y="1699" width="624" height="787"/>
+	<SubTexture name="Kutcha right0007" x="0" y="1699" width="624" height="787"/>
+	<SubTexture name="Kutcha right0008" x="0" y="1699" width="624" height="787"/>
+	<SubTexture name="Kutcha right0009" x="0" y="1699" width="624" height="787"/>
+	<SubTexture name="Kutcha right0010" x="0" y="1699" width="624" height="787"/>
+	<SubTexture name="Kutcha right0011" x="0" y="1699" width="624" height="787"/>
+	<SubTexture name="Kutcha right0012" x="0" y="1699" width="624" height="787"/>
+	<SubTexture name="Kutcha right0013" x="0" y="1699" width="624" height="787"/>
+	<SubTexture name="Kutcha up0000" x="624" y="1699" width="599" height="793" frameX="-22" frameY="0" frameWidth="628" frameHeight="804"/>
+	<SubTexture name="Kutcha up0001" x="1223" y="1699" width="611" height="798" frameX="-13" frameY="-1" frameWidth="628" frameHeight="804"/>
+	<SubTexture name="Kutcha up0002" x="1834" y="1699" width="628" height="803" frameX="0" frameY="-1" frameWidth="628" frameHeight="804"/>
+	<SubTexture name="Kutcha up0003" x="1834" y="1699" width="628" height="803" frameX="0" frameY="-1" frameWidth="628" frameHeight="804"/>
+	<SubTexture name="Kutcha up0004" x="1834" y="1699" width="628" height="803" frameX="0" frameY="-1" frameWidth="628" frameHeight="804"/>
+	<SubTexture name="Kutcha up0005" x="1834" y="1699" width="628" height="803" frameX="0" frameY="-1" frameWidth="628" frameHeight="804"/>
+	<SubTexture name="Kutcha up0006" x="1834" y="1699" width="628" height="803" frameX="0" frameY="-1" frameWidth="628" frameHeight="804"/>
+	<SubTexture name="Kutcha up0007" x="1834" y="1699" width="628" height="803" frameX="0" frameY="-1" frameWidth="628" frameHeight="804"/>
+	<SubTexture name="Kutcha up0008" x="1834" y="1699" width="628" height="803" frameX="0" frameY="-1" frameWidth="628" frameHeight="804"/>
+	<SubTexture name="Kutcha up0009" x="1834" y="1699" width="628" height="803" frameX="0" frameY="-1" frameWidth="628" frameHeight="804"/>
+	<SubTexture name="Kutcha up0010" x="1834" y="1699" width="628" height="803" frameX="0" frameY="-1" frameWidth="628" frameHeight="804"/>
+	<SubTexture name="Kutcha up0011" x="1834" y="1699" width="628" height="803" frameX="0" frameY="-1" frameWidth="628" frameHeight="804"/>
+	<SubTexture name="Kutcha up0012" x="1834" y="1699" width="628" height="803" frameX="0" frameY="-1" frameWidth="628" frameHeight="804"/>
+	<SubTexture name="Kutcha up0013" x="1834" y="1699" width="628" height="803" frameX="0" frameY="-1" frameWidth="628" frameHeight="804"/>
+</TextureAtlas>
