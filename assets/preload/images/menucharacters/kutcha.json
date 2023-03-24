@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Kutcha idle",
+	"image": "kutcha_menu",
+	"position": [
+		203,
+		215
+	],
+	"flipX": false,
+	"scale": 0.5,
+	"confirm_anim": "Kutcha idle"
+}
